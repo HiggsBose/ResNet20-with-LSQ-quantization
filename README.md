@@ -3,4 +3,4 @@ A ResNet20 with LSQ quantization and noise aware training for in-memory computin
 
 the models are based on ResNet and trained on CIFAR-10 dataset
 
-**please run the model using resnet.py**
+**please run the model using resnet20.py**
