@@ -16,7 +16,7 @@ config = {"batch_size": 64,         # batch size
           "device": device,         # device
           "w_bit": 2,               # weight bit
           "add_noise": False,       # choose whether add noise or not
-          "m_of_dispersion": 0.05,   # measure of dispersion
+          "m_of_dispersion": 0.05,  # measure of dispersion
           "additive": True,         # decide whether the noise is additive or multiplicative
           "inference_noise": True   # decide whether inference noise is added to the model
           }
